@@ -208,3 +208,9 @@ __marimo__/
 data/raw/*.csv
 data/raw/*.zip
 data/processed/*.csv
+data/raw/
+data/processed/
+data/powerbi/
+models/
+*.parquet
+*.csv.gz
